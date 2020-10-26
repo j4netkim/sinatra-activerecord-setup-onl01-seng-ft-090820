@@ -13,5 +13,5 @@ group :development do
 	gem 'shotgun'
 	gem 'pry'
 	gem 'tux'
-	gem 'sqlite3'
+	gem 'sqlite3' '~> 1.3.13'
 end
